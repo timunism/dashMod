@@ -17,6 +17,6 @@ This results in uniform styling between Filament panels & JetStream components, 
 to transition between the two, while maintaining a similar color accent, scheme, & palette as well (optional).
 
 # NOTE
-DashMod is dependent on private source code to work out-of-the-box.
+DashMod requires private source code to work out-of-the-box.
 For more info contact me on: `timunism@gmail.com`
 
